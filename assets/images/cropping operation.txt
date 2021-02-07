@@ -1,0 +1,8 @@
+in paint.net
+
+1. image -> canvas size.  make sure anchor is set in the center. turn off maintain aspect ratio.
+width=500
+height=600
+2. Save as 500x600 file.
+
+NO!  -->  2. resize to 400 height.  keep on aspect ratio lock this time.
